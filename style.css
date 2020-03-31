@@ -1,0 +1,58 @@
+body{
+    background-color: whitesmoke;
+}
+p{
+    color: rgb(141, 131, 131);
+}
+.container{
+    margin-bottom: 50px;
+}
+.button{
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    padding: 10px 10px;
+}
+.card{
+    padding: 10px;
+    box-shadow: grey 2px 2px 15px;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+    background-color: white;
+}
+.card-footer{
+    margin-top: 0px;
+    background-color: white;
+    border: none;
+}
+.cardalign{
+    text-align: center;
+}
+.h3{
+    text-align: center;
+}
+.perfume{
+    text-align: center;
+    padding: 45px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 15px 20px;
+}
+.shoe{
+    text-align: center;
+    padding: 45px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 15px 20px;
+}
+
+.bag{
+    text-align: center;
+    padding: 45px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 15px 20px;
+}
+.See{
+    color: orange;
+}
